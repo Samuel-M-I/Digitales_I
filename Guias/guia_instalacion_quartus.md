@@ -5,12 +5,12 @@
 
 ## 📋 Tabla de Contenidos
 
-1. [Requisitos del Sistema](#requisitos-del-sistema)
-2. [Descarga del Software](#descarga-del-software)
-3. [Instalación](#instalación)
-4. [Configuración de Drivers](#configuración-de-drivers)
-5. [Verificación de la Instalación](#verificación-de-la-instalación)
-6. [Solución de Problemas](#solución-de-problemas)
+1. Requisitos del Sistema
+2. Descarga del Software
+3. Instalación
+4. Configuración de Drivers
+5. Verificación de la Instalación
+6. Solución de Problemas
 
 ---
 
