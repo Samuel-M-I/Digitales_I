@@ -42,7 +42,7 @@ El material sigue una metodología basada en:
  - [Corte-1_Combinacional-Básico/](./Corte1/index)
  - [Corte-2_Combinacional-Estructurado/](./Corte2/index)
  - [Corte-3_Secuencial/](./Corte3/index)
- - [Errores-Comunes-Quartus/](./Errores/index)
+ - [Errores-Comunes-Quartus/](./Error/index)
  - [Plantillas/](./Plantillas/index)
  - [Guias/](./Guias/index)
 
