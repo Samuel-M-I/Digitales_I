@@ -39,12 +39,12 @@ El material sigue una metodología basada en:
 ## 📁 Estructura del repositorio
 
  📁[VHDL-Diseño-Digital-I/](https://samuel-m-i.github.io/Digitales_I/)
- - [Corte-1_Combinacional-Básico/]()
- - [Corte-2_Combinacional-Estructurado/]()
- - [Corte-3_Secuencial/]()
- - [Errores-Comunes-Quartus/]()
- - [Templates/]()
- - [Guias/]()
+ - [Corte-1_Combinacional-Básico/](./Corte1/)
+ - [Corte-2_Combinacional-Estructurado/](./Corte2)
+ - [Corte-3_Secuencial/](./Corte3/)
+ - [Errores-Comunes-Quartus/](./Errores/)
+ - [Plantillas/](./Plantillas/)
+ - [Guias/](./Guias/)
 
 
 
