@@ -33,7 +33,7 @@ La búsqueda debe hacerse principalmente por:
   Fragmento literal del log que permita buscar el error sin abrir el archivo.
 
 - **Archivo**  
-  Documento completo del error basado en [`error_template.md`]((../Plantillas/error_template.md)).
+  Documento completo del error basado en [`error_template.md`](../Plantillas/error_template.md).
 
 ---
 
