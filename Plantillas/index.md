@@ -5,7 +5,7 @@ para documentación y registro de información.
 
 ## Plantillas disponibles
 
-- **[error_template.md]()**  
+- **[error_template.md](./error_template.md)**  
   Plantilla genérica para documentar errores de cualquier tipo
   (software, hardware, configuración, lógica, proceso).
 
