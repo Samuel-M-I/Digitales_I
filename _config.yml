@@ -1,6 +1,6 @@
 title: Diseño Digital I — VHDL
 description: Material del curso de Diseño Digital I enfocado en VHDL, FPGA y Quartus
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
 
 
 markdown: kramdown
