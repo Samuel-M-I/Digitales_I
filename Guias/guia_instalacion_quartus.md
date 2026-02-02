@@ -124,7 +124,7 @@ En la sección **"Add-ons and Standalone Software"**, asegúrese de tener marcad
 - ✅ **Quartus Prime Programmer and Tools**
 - ✅ **Quartus Prime Help**
 - ✅ **Ashling RiscFree IDE for Altera**
-
+[](/img/archivos.png)
 ### Paso 3: Configuración de Drivers USB
 
 Esta es una parte **crítica** de la instalación.
@@ -146,7 +146,7 @@ Esta es una parte **crítica** de la instalación.
    - ❌ **Install JTAG Server as a Windows service** (no necesario)
 
 > ⚠️ **Importante:** Los drivers USB Blaster son esenciales para programar las FPGAs. Sin ellos, no podrá cargar sus diseños al hardware.
-
+[](/img/driver.png)
 ### Paso 4: Configuración Final
 
 1. Verifique la ruta de instalación:
