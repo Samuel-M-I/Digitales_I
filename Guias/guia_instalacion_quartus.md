@@ -26,12 +26,7 @@
 | **Espacio en Disco** | 15 GB libres |
 | **Resolución** | 1280x720 mínimo |
 
-### Requisitos Recomendados
 
-- **RAM:** 16 GB o más
-- **Procesador:** Intel Core i7 o superior
-- **Disco:** SSD para mejor rendimiento
-- **Espacio:** 20 GB libres
 
 > ⚠️ **Nota:** La instalación completa requiere aproximadamente **13 GB** de espacio en disco.
 
@@ -287,22 +282,10 @@ Esta es una parte **crítica** de la instalación.
 
 ## 📚 Recursos Adicionales
 
-### Documentación Oficial
-
-- **Guía de Usuario:** `C:\altera_lite\25.1std\quartus\doc\`
-- **Tutoriales:** [Altera Learning Center](https://www.altera.com/support/training/overview.html)
-- **Manual de Referencia:** Incluido en la instalación
-
-### Soporte Técnico
-
-- **Foros de Intel FPGA:** [https://forums.intel.com/](https://forums.intel.com/)
-- **Base de Conocimiento:** [https://www.altera.com/support/support-resources/knowledge-base.html](https://www.altera.com/support/support-resources/knowledge-base.html)
-
 ### Material del Curso
 
-- **Repositorio GitHub:** [Enlace proporcionado por el monitor]
+- **Repositorio GitHub:** [https://github.com/Samuel-M-I/Digitales_I](https://github.com/Samuel-M-I/Digitales_I)
 - **Ejemplos de Código:** Incluidos en las monitorias
-- **Proyectos de Referencia:** Disponibles en la carpeta del curso
 
 ---
 
@@ -340,8 +323,7 @@ Si tiene problemas durante la instalación:
 1. **Primera Opción:** Consultar esta guía y la sección de solución de problemas
 2. **Segunda Opción:** Buscar en foros oficiales de Intel FPGA
 3. **Tercera Opción:** Contactar al monitor del curso:
-   - **Email:** [email del monitor]
-   - **Horario de Atención:** [horarios específicos]
+   - **Email:** samuel.marroquin@estudiantesunibague.edu.co
 
 ---
 
