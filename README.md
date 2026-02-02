@@ -38,7 +38,7 @@ El material sigue una metodología basada en:
 
 ## 📁 Estructura del repositorio
 
- 📁[VHDL-Diseño-Digital-I/]()
+ 📁[VHDL-Diseño-Digital-I/](https://samuel-m-i.github.io/Digitales_I/)
  - [Corte-1_Combinacional-Básico/]()
  - [Corte-2_Combinacional-Estructurado/]()
  - [Corte-3_Secuencial/]()
