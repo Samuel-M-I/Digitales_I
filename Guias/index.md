@@ -11,7 +11,7 @@ Estas guías están pensadas para:
 
 ## 📂 Contenido
 
-- 📄 [Instalación de Quartus Prime](./guias_instalacion_quartus.md)
+- 📄 [Instalación de Quartus Prime](./guia_instalacion_quartus)
   - Descarga del software
   - Configuración inicial recomendada
   - Verificación de la instalación
