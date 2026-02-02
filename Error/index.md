@@ -44,5 +44,5 @@ La búsqueda debe hacerse principalmente por:
 3. Añadir una fila nueva en esta tabla.
 4. Mantener el fragmento del log **sin modificar**.
 ---
-##Plantilla
+## Plantilla
 - [Plantilla](../Plantillas/error_template.md)
