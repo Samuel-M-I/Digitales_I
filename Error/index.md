@@ -33,7 +33,7 @@ La búsqueda debe hacerse principalmente por:
   Fragmento literal del log que permita buscar el error sin abrir el archivo.
 
 - **Archivo**  
-  Documento completo del error (basado en `error_template.md`).
+  Documento completo del error basado en [`error_template.md`]((../Plantillas/error_template.md)).
 
 ---
 
@@ -44,5 +44,3 @@ La búsqueda debe hacerse principalmente por:
 3. Añadir una fila nueva en esta tabla.
 4. Mantener el fragmento del log **sin modificar**.
 ---
-## Plantilla
-- [Plantilla](../Plantillas/error_template.md)
