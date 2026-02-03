@@ -7,6 +7,23 @@ y comprensión real del proceso de diseño en FPGA.
 
 ---
 
+## 📁 Estructura del repositorio
+
+ 📁[VHDL-Diseño-Digital-I/](https://samuel-m-i.github.io/Digitales_I/)
+ - [Corte-1_Combinacional-Básico/](./Corte1/index)
+ - [Corte-2_Combinacional-Estructurado/](./Corte2/index)
+ - [Corte-3_Secuencial/](./Corte3/index)
+ - [Errores-Comunes-Quartus/](./Error/index)
+ - [Plantillas/](./Plantillas/index)
+ - [Guias/](./Guias/index)
+
+
+
+Cada módulo incluye ejemplos funcionales de VHDL y material de apoyo
+para simulación y verificación.
+
+---
+
 ## 🎯 Propósito
 
 Este repositorio busca:
@@ -36,22 +53,6 @@ El material sigue una metodología basada en:
 
 ---
 
-## 📁 Estructura del repositorio
-
- 📁[VHDL-Diseño-Digital-I/](https://samuel-m-i.github.io/Digitales_I/)
- - [Corte-1_Combinacional-Básico/](./Corte1/index)
- - [Corte-2_Combinacional-Estructurado/](./Corte2/index)
- - [Corte-3_Secuencial/](./Corte3/index)
- - [Errores-Comunes-Quartus/](./Error/index)
- - [Plantillas/](./Plantillas/index)
- - [Guias/](./Guias/index)
-
-
-
-Cada módulo incluye ejemplos funcionales de VHDL y material de apoyo
-para simulación y verificación.
-
----
 
 ## 🧪 Simulación como eje central
 
