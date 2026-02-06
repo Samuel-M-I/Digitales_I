@@ -12,11 +12,9 @@ La búsqueda debe hacerse principalmente por:
 
 ## 📋 Errores registrados
 
-| Código   | Título breve                    | Log / Mensaje clave                           | Archivo |
-|----------|---------------------------------|-----------------------------------------------|---------|
-| ERR-001  | Error de compilación             | "syntax error near unexpected token"          | ERR-001.md |
-| ERR-002  | Falla en ejecución               | "null reference exception"                    | ERR-002.md |
-| ERR-003  | Configuración inválida           | "invalid configuration value"                | ERR-003.md |
+| Código       | Título breve                    | Log / Mensaje clave                           | Archivo        |
+|--------------|---------------------------------|-----------------------------------------------|----------------|
+| ERR-SIM-001  |Fallo de licencia en simulador   | SALT_LICENSE_SERVER                           | [ERR-SIM-001.md](./SIM/ERR_SIM_001.md) |
 
 ---
 
