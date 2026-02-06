@@ -50,8 +50,8 @@ No existe solución oficial al momento.
 ## 📝 Notas (opcional)
 - El problema es externo al diseño y al entorno local.
 - No se soluciona reinstalando Quartus.
-- Referencia: foros oficiales de Altera / Intel FPGA.
-- Se recomienda seguir la guía de instalación de ModelSim.
+- Referencia: [foros oficiales](https://community.altera.com/discussions/fpga-device/300-your-license-version-is-outside-the-range-of-the-contract/350321) de Altera / Intel FPGA.
+- Se recomienda seguir la guía de [instalación de ModelSim](../../Guias/guia_instalacion_ModelSim.md).
 
 ---
 
