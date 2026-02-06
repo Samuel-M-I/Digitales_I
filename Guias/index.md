@@ -15,6 +15,8 @@ Estas guías están pensadas para:
   - Descarga del software
   - Configuración inicial recomendada
   - Verificación de la instalación
+-  📄 [Instalación de ModelSim](./guia_instalacion_modelSim.md)
+   - Descarga del software
 
 
 ---
