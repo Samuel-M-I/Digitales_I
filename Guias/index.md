@@ -11,6 +11,8 @@ Estas guías están pensadas para:
 
 ## 📂 Contenido
 
+- 📄 [Guia Manual de usuario DE0NANO](./DE0_Nano_User_Manual.pdf)
+  
 - 📄 [Instalación de Quartus Prime](./guia_instalacion_quartus)
   - Descarga del software
   - Configuración inicial recomendada
